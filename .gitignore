@@ -1,0 +1,4 @@
+.env
+dags/
+!dags/*.py
+logs/*
