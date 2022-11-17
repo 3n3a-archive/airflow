@@ -1,6 +1,7 @@
 # Apache Airflow
 
 **From**: https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+**And About OAuth**: https://awslife.medium.com/airflow-authentication-with-rbac-and-keycloak-2c34d2012059
 
 ### Guide
 
